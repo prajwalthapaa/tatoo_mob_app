@@ -1,2 +1,2 @@
-# tatoo_mob_app
+# tattoo_booking_app
  
