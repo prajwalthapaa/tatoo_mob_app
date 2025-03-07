@@ -1,4 +1,4 @@
-# Hotel Booking App
+# tattoo Booking App
 
 A Flutter application for hotel bookings with clean architecture and BLoC pattern.
 
